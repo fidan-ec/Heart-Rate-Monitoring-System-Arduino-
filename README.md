@@ -18,3 +18,9 @@ The sensor detects pulse signals and sends them to the Arduino. The Arduino proc
 
 ## Author
 Fida N
+
+## Project Presentation
+
+You can view the detailed project presentation here:
+
+[Heart Rate Monitoring Presentation](./Heart_Rate_Monitoring_Presentation.pptx)
