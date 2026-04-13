@@ -23,4 +23,4 @@ Fida N
 
 You can view the detailed project presentation here:
 
-[Heart Rate Monitoring Presentation](./Heart_Rate_Monitoring_Presentation.pptx)
+[Heart Rate Monitoring System (PDF)](./Heart_Rate_Monitoring_System.pdf)
